@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexPoyser
 - 👀 I’m interested in simulation for advanced engineering
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on fortran and python scripts for use with abaqus
+- 🌱 I’m currently learning how to use Python to impliment Finite Element Analysis models and Fortran to run Abaqus subroutines
+- 💞️ I’m looking to collaborate on fortran and python scripts for use with Abaqus
 - 📫 How to reach me alex.poyser@bristol.ac.uk
 
 <!---
